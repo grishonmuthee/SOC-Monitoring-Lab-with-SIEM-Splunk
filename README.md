@@ -16,8 +16,6 @@ This project simulates a real-world Security Operations Center (SOC) environment
 
 ##  Architecture
 
-![SOC Architecture](architecture.png)
-
 ---
 <img width="429" height="654" alt="image" src="https://github.com/user-attachments/assets/b66f9669-869d-4324-9acc-a62a9ea2bba5" />
 
@@ -31,7 +29,7 @@ This project simulates a real-world Security Operations Center (SOC) environment
 
 ---
 
-## 📡 Data Sources
+## Data Sources
 - Windows Event Logs (Security, System)
 - Linux Authentication Logs (/var/log/auth.log)
 - Network connection logs
