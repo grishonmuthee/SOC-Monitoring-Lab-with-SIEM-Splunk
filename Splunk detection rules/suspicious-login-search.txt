@@ -1,1 +1,2 @@
-
+index=* (login OR authentication)
+| stats count by user, src_ip, _time
