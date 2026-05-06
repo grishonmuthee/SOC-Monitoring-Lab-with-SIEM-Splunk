@@ -1,1 +1,2 @@
-
+index=* dest_port=* OR "connection attempt"
+| stats count by src_ip, dest_port
