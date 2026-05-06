@@ -1,1 +1,2 @@
-
+index=* sourcetype=linux_secure OR sourcetype=WinEventLog:Security
+"failed" OR "invalid login"
