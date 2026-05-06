@@ -1,5 +1,3 @@
-# SOC-Monitoring-Lab-with-SIEM-Splunk-
-
 #  SOC Monitoring Lab with Splunk
 
 ## Overview
